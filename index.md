@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-### X Mipa 3 Open Source Project 🌐
+X Mipa 3 Open Source Project
 ___
 
 [![IMG-20220720-114313.jpg](https://i.postimg.cc/2yt6c4GX/IMG-20220720-114313.jpg)](https://postimg.cc/Lgz2hgrz)
