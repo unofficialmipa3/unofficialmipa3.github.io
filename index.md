@@ -7,7 +7,8 @@ nav_order: 1
 
 
 {: .warning }
-> By using this site you agree to the "terms of use"
+> By using this site you agree to the ["terms of use"](termofuse.md)
+>
 > The site owner is not responsible for the distribution of data
 
 ___
