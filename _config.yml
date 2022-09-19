@@ -11,10 +11,10 @@ callouts:
   warning:
     title: Warning
     color: red
-  new
+  new:
     title: New
     color: green
-  note
+  note:
     title: Note
     color: blue
 
