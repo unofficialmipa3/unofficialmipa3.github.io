@@ -5,8 +5,8 @@ nav_order: 1
 
 ### X Mipa 3 Open Source Project 🌐
 
+___
 [Kirim](https://t.me/fromzero3){: .btn .btn-purple }
-
 ___
 
 [![IMG-20220915-142457.jpg](https://i.postimg.cc/kXc3Yt8s/IMG-20220915-142457.jpg)](https://postimg.cc/3ddcdNt0)
