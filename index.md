@@ -12,6 +12,7 @@ nav_order: 1
 
 ___
 
+[![Picsart-22-09-19-15-06-26-955.jpg](https://i.postimg.cc/6QYzFZLV/Picsart-22-09-19-15-06-26-955.jpg)](https://postimg.cc/v1xWVcKD)
 [![IMG-20220720-114313.jpg](https://i.postimg.cc/2yt6c4GX/IMG-20220720-114313.jpg)](https://postimg.cc/Lgz2hgrz)
 [![IMG-20220720-114531.jpg](https://i.postimg.cc/xjpc12Qy/IMG-20220720-114531.jpg)](https://postimg.cc/23vz0gVV)
 [![IMG-20220720-121222.jpg](https://i.postimg.cc/NfyLyzfh/IMG-20220720-121222.jpg)](https://postimg.cc/fJNMp595)
