@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-### X Mipa 3 Open Source Project 😱😱
+### X Mipa 3 Open Source Project 🌐
 
 [Kirim](https://t.me/fromzero3){: .btn .btn-purple }
 
