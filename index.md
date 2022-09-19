@@ -3,9 +3,9 @@ title: Home
 nav_order: 1
 ---
 
-### Pap random xmipa 3 open source 😱😱
+### X Mipa 3 Open Source Project 😱😱
 
-[Kirim Pap](https://t.me/fromzero3){: .btn .btn-purple }
+[Kirim](https://t.me/fromzero3){: .btn .btn-purple }
 
 ___
 
