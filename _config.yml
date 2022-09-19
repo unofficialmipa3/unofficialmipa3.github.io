@@ -11,6 +11,12 @@ callouts:
   warning:
     title: Warning
     color: red
+  new
+    title: New
+    color: green
+  note
+    title: Note
+    color: blue
 
 aux_links_new_tab: true
 footer_content: Not the official X MIPA site
