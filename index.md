@@ -6,8 +6,8 @@ nav_order: 1
 # X Mipa 3 Open Source Project
 
 {: .warning }
-> By using this site you agree to the ["terms of use"](termofuse.md)
-> The site **owner** is not responsible for the distribution of data
+> By using this site you agree to the ["terms of use"](termofuse.md). <br>
+> The site **owner** is not responsible for the distribution of data. <br>
 > If you want to take down the uploaded photo, contact the admin.
 
 ___
