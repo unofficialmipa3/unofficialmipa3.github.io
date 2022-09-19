@@ -1,3 +1,51 @@
 a, .btn, .icon, .search-input:focus+.search-label .search-icon, .search-result-doc .search-result-icon, .main-content .anchor-heading svg  {
   color: #ee0000!important
 }
+
+a:not([class]) {
+  background-image: linear-gradient(#eeeeeb 0%, #eeeeeb 100%)!important;
+}
+
+a:not([class]):hover {
+  background-image: linear-gradient(#e80a, #e80a)!important;
+}
+
+.site-button:hover, .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+  background-color: #ffeedd!important;
+  background-image: none!important;
+}
+
+.search-result:hover, .search-result.active {
+  background-color: #f5f0e9!important;
+}
+
+::selection {
+  color: #fff;
+  background: #ee0000!important;
+}
+
+// change the tables so they are better for displaying recipes
+thead th {
+  border-bottom: 1px solid rgba(238,235,238,0.5);
+  font-weight: normal;
+}
+
+table {
+  min-width: auto;
+}
+
+.table-wrapper {
+  width: max-content;
+}
+
+td {
+  text-align: center;
+}
+// make blockquotes more highlighted
+blockquote {
+  background: #f1f1f4;
+  margin: 0;
+  padding: 5px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
