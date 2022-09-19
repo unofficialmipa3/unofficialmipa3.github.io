@@ -5,11 +5,11 @@ nav_order: 1
 
 # X Mipa 3 Open Source Project
 
-
 {: .warning }
 > By using this site you agree to the ["terms of use"](termofuse.md)<br>
 > The site **owner** is not responsible for the distribution of data. If you want to take down the uploaded photo, contact the admin.
 ___
+
 
 [![Picsart-22-09-19-15-06-26-955.jpg](https://i.postimg.cc/6QYzFZLV/Picsart-22-09-19-15-06-26-955.jpg)](https://postimg.cc/v1xWVcKD)
 [![IMG-20220720-114313.jpg](https://i.postimg.cc/2yt6c4GX/IMG-20220720-114313.jpg)](https://postimg.cc/Lgz2hgrz)
