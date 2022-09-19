@@ -9,7 +9,7 @@ nav_order: 1
 {: .warning }
 > By using this site you agree to the ["terms of use"](termofuse.md)<br>
 > The site **owner** is not responsible for the distribution of data<br>
-> if you want to take down the uploaded photo, contact the admin.
+> If you want to take down the uploaded photo, contact the admin.
 ___
 
 [![Picsart-22-09-19-15-06-26-955.jpg](https://i.postimg.cc/6QYzFZLV/Picsart-22-09-19-15-06-26-955.jpg)](https://postimg.cc/v1xWVcKD)
