@@ -8,6 +8,8 @@ nav_order: 1
 
 {: .warning }
 > By using this site you agree to the "terms of use"
+> The site owner is not responsible for the distribution of data
+
 ___
 
 [![IMG-20220720-114313.jpg](https://i.postimg.cc/2yt6c4GX/IMG-20220720-114313.jpg)](https://postimg.cc/Lgz2hgrz)
