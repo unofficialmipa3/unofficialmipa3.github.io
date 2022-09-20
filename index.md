@@ -19,6 +19,7 @@ ___
 
 ```20-09-2022```
 
+![Picsart-22-09-20-13-52-19-449.jpg](https://i.postimg.cc/sgnxmhk8/Picsart-22-09-20-13-52-19-449.jpg)
 ![IMG-20220920-123541.jpg](https://i.postimg.cc/Qdkyq4G8/IMG-20220920-123541.jpg)
 ![IMG-20220920-094940.jpg](https://i.postimg.cc/bvdv7Ncd/IMG-20220920-094940.jpg)
 ![images-2.jpg](https://i.postimg.cc/ncnYc0g7/images-2.jpg)
