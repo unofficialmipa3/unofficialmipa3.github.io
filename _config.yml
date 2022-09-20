@@ -6,6 +6,8 @@ search_enabled: true
 aux_links:
   "Send your photo":
     - "https://t.me/fromzero3"
+  "Github":
+    - "https://github.com/unofficialmipa3/unofficialmipa3.github.io/"
 
 callouts:
   warning:
