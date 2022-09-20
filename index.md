@@ -5,7 +5,7 @@ nav_order: 1
 
 # X Mipa 3 Open Source Project
 
-{: note}
+{: .note}
 > The latest upload is at the top
 
 {: .warning }
