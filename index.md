@@ -5,7 +5,7 @@ nav_order: 1
 
 # X Mipa 3 Open Source Project
 
-[Github](https://github.com/unofficialmipa3/unofficialmipa3.github.io/){: .btn .btn-outline }
+[Github](https://github.com/unofficialmipa3/unofficialmipa3.github.io/){: .btn } [Postimage](https://postimg.cc){: .btn .btn-blue }
 
 {: .note}
 > The latest upload is at the top
