@@ -5,6 +5,8 @@ nav_order: 1
 
 # X Mipa 3 Open Source Project
 
+[Github](https://github.com/unofficialmipa3/unofficialmipa3.github.io/){: .btn .btn-outline }
+
 {: .note}
 > The latest upload is at the top
 
