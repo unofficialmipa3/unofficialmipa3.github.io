@@ -19,7 +19,8 @@ ___
 
 ```20-09-2022```
 
-![Picsart-22-09-20-13-52-19-449.jpg](https://i.postimg.cc/sgnxmhk8/Picsart-22-09-20-13-52-19-449.jpg)
+![ytta](https://i.ibb.co/68SrmD6/IMG-20220920-143235.jpg)
+![wibu](https://i.postimg.cc/sgnxmhk8/Picsart-22-09-20-13-52-19-449.jpg)
 ![kunci](https://i.ibb.co/0f4bwHv/Picsart-22-09-20-14-03-31-691.png)
 ![IMG-20220920-123541.jpg](https://i.postimg.cc/Qdkyq4G8/IMG-20220920-123541.jpg)
 ![IMG-20220920-094940.jpg](https://i.postimg.cc/bvdv7Ncd/IMG-20220920-094940.jpg)
