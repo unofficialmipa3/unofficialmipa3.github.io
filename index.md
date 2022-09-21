@@ -5,8 +5,7 @@ nav_order: 1
 
 {: .note}
 > # Welcome to /index/
-> # of X Mipa 3 Open Source Project
-> #### Random photos will be uploaded here
+> #### X Mipa 3 Open Source Project. Random photos will be uploaded here
 
 [Instagram](https://instagram.com/xmipa3_masaba?igshid=YmMyMTA2M2Y=){: .btn } [Github](https://github.com/unofficialmipa3/unofficialmipa3.github.io/){: .btn }
 
