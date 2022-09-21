@@ -20,6 +20,7 @@ ___
 
 ```21-09-2022```
 
+![geskul](https://i.postimg.cc/xTdPC7Pk/IMG-20220921-145950.jpg)
 ![daftar nama](https://i.postimg.cc/tC1NFjjx/IMG-20220921-073414.jpg)
 
 ```20-09-2022```
