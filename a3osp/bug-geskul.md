@@ -1,6 +1,5 @@
 ---
 title: /a3osp/bug-geskul/
-nav_order: 3
 ---
 
 {: .note }
