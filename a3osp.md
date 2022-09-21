@@ -1,6 +1,12 @@
 ---
-title: A3OSP
+title: /a3osp/
 nav_order: 2
 ---
 
-[Soal Fisika.pdf](https://drive.google.com/file/d/1-QKmaPTmJrln3w1IzbDtgqYhMkX-4tA8/view?usp=drivesdk){: .btn btn-purple }
+{: .note }
+> # Welcome to /a3osp/
+> #### Random things will be uploaded here
+
+```
+[/a3osp/Soal Fisika.pdf](https://drive.google.com/file/d/1-QKmaPTmJrln3w1IzbDtgqYhMkX-4tA8/view?usp=drivesdk)
+```
