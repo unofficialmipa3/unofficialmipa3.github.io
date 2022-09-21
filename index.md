@@ -13,7 +13,7 @@ ___
 
 {: .warning }
 > # Disclaimer!
-> By using this site you agree to the ["terms of use"](termofuse.md) <br>
+> By using this site you agree to the [```"terms of use"```](termofuse.md) <br>
 > The site **owner** is not responsible for the distribution of data. If you want to take down the uploaded photo, contact the admin
 
 ___
