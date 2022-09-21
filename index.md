@@ -1,5 +1,5 @@
 ---
-title: Home
+title: /index/
 nav_order: 1
 ---
 
@@ -8,7 +8,8 @@ nav_order: 1
 [Instagram](https://instagram.com/xmipa3_masaba?igshid=YmMyMTA2M2Y=){: .btn } [Github](https://github.com/unofficialmipa3/unofficialmipa3.github.io/){: .btn }
 
 {: .note}
-> The latest upload is at the top
+> # /index/
+> #### Random photos will be uploaded here
 
 {: .warning }
 > # Disclaimer!
