@@ -8,3 +8,5 @@ nav_order: 2
 > #### Random things will be uploaded here
 
 [```/a3osp/Soal Fisika.pdf```](https://drive.google.com/file/d/1-QKmaPTmJrln3w1IzbDtgqYhMkX-4tA8/view?usp=drivesdk)
+
+```Wifi Password : 192a651y```
