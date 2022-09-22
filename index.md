@@ -18,6 +18,10 @@ ___
 
 ___
 
+```22-09-2022```
+
+![dz***a dan kaktus](https://i.postimg.cc/NjzTSHQj/IMG-20220922-103904.jpg)
+
 ```21-09-2022```
 
 ![geskul](https://i.postimg.cc/xTdPC7Pk/IMG-20220921-145950.jpg)
