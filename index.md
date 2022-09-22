@@ -22,6 +22,7 @@ ___
 
 ![man demo](https://i.postimg.cc/CKNVY1CB/IMG-20220922-122813.jpg)
 Aksi demo sejumlah siswa, diduga karena gerbang tak kunjung dibuka.
+
 ___
 
 ![dz***a dan kaktus](https://i.postimg.cc/NjzTSHQj/IMG-20220922-103904.jpg)
